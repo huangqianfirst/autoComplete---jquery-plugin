@@ -1,0 +1,19 @@
+﻿{
+"asyn":[{
+        "match": ["shanghai", "上海", "sh"],
+        "name": "上海",
+        "val": "上海名"
+    }, {
+        "match": ["suzhou", "苏州", "sz"],
+        "name": "苏州",
+        "val": "苏州名"
+    }, {
+        "match": ["nanchang", "南昌", "nc"],
+        "name": "南昌",
+        "val": "南昌名"
+    }, {
+        "match": ["nanning", "南宁", "nn"],
+        "name": "南宁",
+        "val": "南宁名"
+    }]
+}
